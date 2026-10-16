@@ -1,0 +1,25 @@
+{
+  "latest": "v1.0.3",
+  "changelog": [
+    {
+      "version": "v1.0.3",
+      "date": "October 16, 2026",
+      "changes": ["Updated version", "Permanent disclaimer for internal use"]
+    },
+    {
+      "version": "v1.0.2",
+      "date": "October 16, 2026",
+      "changes": ["Updated version", "Permanent disclaimer for internal use"]
+    },
+    {
+      "version": "v1.0.1",
+      "date": "October 6, 2026",
+      "changes": ["Further refinement to adjust text per Tax team feedback"]
+    },
+    {
+      "version": "v1.0.0",
+      "date": "Initial release",
+      "changes": ["Initial release"]
+    }
+  ]
+}
