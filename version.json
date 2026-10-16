@@ -1,11 +1,6 @@
 {
-  "latest": "v1.0.4",
+  "latest": "v1.0.2",
   "changelog": [
-    {
-      "version": "v1.0.3",
-      "date": "October 16, 2026",
-      "changes": ["Updated version", "Permanent disclaimer for internal use"]
-    },
     {
       "version": "v1.0.2",
       "date": "October 16, 2026",
